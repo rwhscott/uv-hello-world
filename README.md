@@ -1,3 +1,5 @@
+Fork of UniversalViewer/uv-hello-world that incorporates the manifest selection functionality from UniversalViewer/examples.
+
 ### 👋 🌎
 
 #### Prerequisites
